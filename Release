@@ -1,3 +1,8 @@
 Origin: Saily Beta
 Label: Saily Beta
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
 Description: This repo contains beta release for Saily Package Manager.
+Host-Software: Saily
