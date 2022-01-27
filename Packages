@@ -1,0 +1,133 @@
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1632210880
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1632210880.deb
+Size: 8602396
+MD5sum: 198028c2515f2559b3bc25994e880e64
+SHA1: f713e70240579fbf782b35fc5736a8a069eee8a2
+SHA256: af01098ed425f4a7bf76f4b0104c45e5737816742231baecf0e4988c32bc3d89
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1632491942
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1632491942.deb
+Size: 8603928
+MD5sum: 3154dd3b70c0acaeded6e6c290b03a0e
+SHA1: b47d57c355abf1b667d6bdba2feb14fe92a76cea
+SHA256: f0a95d77102d0accc95257eb067115aa7a40e8da206dc9455ff33e0076c94528
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1634402473
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1634402473.deb
+Size: 8468992
+MD5sum: 632461fd2c5f600e581a43c98e3401e3
+SHA1: 442987f64e072300f58cbe44e5328f527ec32638
+SHA256: 3f705640977ed46e8122ccde70b9bd24176fed359d3073aac48e9d2830e3b1de
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1635255185
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1635255185.deb
+Size: 8488840
+MD5sum: 505d4abd13d4f949d7341bc87fc71e7f
+SHA1: b76a07330d699ad27d44d75a2a7f9301b8bc1550
+SHA256: 855a5a3df7fdc0d2c94a12541966bdc8c1261e47ec3f8eef4b238122df32e085
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1639504662
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1639504662.deb
+Size: 8521880
+MD5sum: 3943409636035bbd21d8f4195d0fcbc8
+SHA1: 6d0a0246a970246346d24d5eb30427cf7fe4304e
+SHA256: 474fd80fec225a5d4ed171c84400686fbeb15478015f4fbe4aee3730836515d6
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1643101538
+Architecture: iphoneos-arm
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1643101538.deb
+Size: 8532648
+MD5sum: 16fbe088a6e6be1a0c58be1de31e5bf3
+SHA1: c38e82ab5af0e93650655b38fce3d78c2eb3a3f6
+SHA256: f7a4b244f903c9ff65e8b870313a3bf5c6ad601c4685ae1bcb5253a496c28375
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <master@233owo.com>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1643304882
+Architecture: iphoneos-arm
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1643304882.deb
+Size: 8550852
+MD5sum: 40e1377546dc84a46476f5da6bb7229b
+SHA1: 7e10fe378fad0aab8873daf9b9784db7ec54981d
+SHA256: 2bd50e5859dbded2fb1a8aceedb1f3b75e5cc0d8803db0c75bf6d5bdf096ed10
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
