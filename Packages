@@ -150,3 +150,22 @@ Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Name: Saily
 Website: https://sailyteam.github.io/Saily/index.html
 
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1643660007
+Architecture: iphoneos-arm
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./payloads/chromatic.rel.ci.1643660007.deb
+Size: 3848348
+MD5sum: 013e12c887806efe6079018153be3ba7
+SHA1: 81e24fcb70080155ef3518575f0350f7de8680b4
+SHA256: 5667d101fd394ab040a004c699f736f8ff531d19abbcbb9bcf38ee4d662f423b
+Section: Applications
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+

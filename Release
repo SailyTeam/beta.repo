@@ -1,25 +1,25 @@
 Architectures: iphoneos-arm
 Codename: CODENAME_HERE
 Components: main
-Date: Sat, 29 Jan 2022 06:30:25 +0000
+Date: Mon, 31 Jan 2022 20:36:57 +0000
 Description: This repo contains beta release for Saily Package Manager.
 Label: Saily
 Origin: Saily Beta
 Suite: stable
 Version: 1.0
 MD5Sum:
- 1a6fc0151757fce0e2845417269ca91a             5976 Packages
- 5187bf7d674de2be0d1a758ed9049181             1443 Packages.bz2
- 7c3628139fce6ba7e8c114ceef31d622              238 Release
+ 38477a3d5a008be83b1edccf485a1eb8             6729 Packages
+ 896e18488d1de249fa63071c622bd76a             1634 Packages.bz2
+ 2d2c12f8110a4091fa6f768f915f049f              238 Release
 SHA1:
- 136fe1ba91d00bf0de1591509181f6fc73c48c0b             5976 Packages
- a89b61723ef1b90307b206968873a1e4edd92198             1443 Packages.bz2
- db8f0e6a9ad4a5bea69fd17eba0c7b940be7e35b              238 Release
+ 74f9371a1fd14476f17e47e47926e8b7591b0c93             6729 Packages
+ e79b7c301e8db505cfa5474fc50a92e7271f322f             1634 Packages.bz2
+ 7f4efaa123509dd22326763b14c07e06b41ee428              238 Release
 SHA256:
- 1c3f260632d1c9936216d5c240a8061cae8e06f398e60a0dcc094839b4e46d96             5976 Packages
- 6272446713699ecff9ae2da269e7a6e8e4667d1d51b8ec5f1f5ec03c897bad57             1443 Packages.bz2
- 2150c8db5a142af4fd4db2b7eca3288dc7f2c2e98c96a6f6807c39e6ed38296a              238 Release
+ fffed6225723a4d8c94b44e28e59840d844c6fc90ab9343dd43b1b328b321413             6729 Packages
+ 3ef6f7a50e652583bca1390e08cf05b14a3a4586059d9cdb97c139aa0ac0968f             1634 Packages.bz2
+ 2ce3732c591b9b6e13137dec68c5064b509ef0a5c4fc7a9af3afe88965a21bc6              238 Release
 SHA512:
- 97af3d2b169f35bbeea7443bb84abd9260d039b86c3774dc01e5a4840b53d2feb72e3cf286c380c3c8830abc789b0876aa956748a292c8df1a3237105d88c59d             5976 Packages
- 039267fda7da6e6c20b7750d033da730e4c62c155cf7058ed509a392a27f320551ab5468eeeaca393f6528172c16311f1acc9b4cef230bc8821cd8eb4c539321             1443 Packages.bz2
- 87c44a3e1bf77a4bedf9a9e6ee24ef6b2e089ccc0481f5dc98a923686ace10328146ecb21d90450cf4cabe4a39599b6df212c86d2496fc1debe38306ba4630c8              238 Release
+ 1745e30e2636c6c8a20c5ccc2b56c7644e8bd78c974716058685712ddc1d49d1f6e947348634b268052e8c541a94158c04a57505853c3e8b1000a0a72098a62d             6729 Packages
+ 535cd943ad6566da1b9440db1a485699a15344e2fa882ebb5b71013b747dae32eba9a3f81b1c7c1908ec7a5e647180a1550ed6ab6ec3738b44dc84afbb108176             1634 Packages.bz2
+ f9a3e50cdc0d9eecf3f2ecd080926fd52d2c910eca8e8839d351064f3162dde9d11e366e21a441d0dfe856c6ff29fd26238899421c21ea3bc267b31151c365bc              238 Release
